@@ -1,7 +1,9 @@
 # Домашнее задание к занятию "7. Работа с HTTP" (Image Manager *)
 
+[![Build Status](https://github.com/ivantr033/ahj-homeworks-http-star/actions/workflows/deploy.yml/badge.svg)](https://github.com/ivantr033/ahj-homeworks-http-star/actions/workflows/deploy.yml)
+
 ## 🌐 Ссылка на развертывание (GitHub Pages)
-*   **Modern Image Manager (Задача со звёздочкой):** [Открыть приложение](https://github.io)
+*   **Modern Image Manager (Задача со звёздочкой):** [Открыть приложение](https://ivantr033.github.io/ahj-homeworks-http-star/)
 
 ---
 
